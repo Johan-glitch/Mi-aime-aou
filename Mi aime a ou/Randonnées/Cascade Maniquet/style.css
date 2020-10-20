@@ -1,0 +1,101 @@
+/*-- Le "menu --*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: #ddd;
+    margin-top: auto;
+    text-decoration: none;
+}
+
+
+  
+.topnav a{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.flag{
+    width : 75px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+}
+/*-- Le corps de la page --*/
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ddd;
+}
+
+/*-- Le corps de la page --*/
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ddd;
+}
+.titre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.titre2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.container{
+    border: solid black 1px;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container2{
+    border: solid white 1px;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 15px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    text-align: justify;
+}
+
+.pieddepage{
+    text-align: justify;
+}
+.footer{
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    color: #ddd;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cascademaniquet{
+    margin-top: 50px;
+}

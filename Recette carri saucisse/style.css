@@ -1,0 +1,128 @@
+/*-- Le "menu --*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: #ddd;
+    margin-top: auto;
+
+}
+
+  
+.topnav a{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.flag{
+    width : 75px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+}
+/*-- Le corps de la page --*/
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ddd;
+}
+.background{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.eltitre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #CF000D;
+}
+
+.eltitre2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #CF000D;
+    text-align: justify;
+}
+.titre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #FF8888;
+}
+
+.titre2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: justify;
+    color: #FF8888;
+}
+
+.container{
+    border: solid black 1px;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container2{
+    border: solid white 1px;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 15px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.carrisaucisse{
+    width : 500px;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    text-align: justify;
+ 
+}
+
+.info{
+    text-align: justify;
+}
+
+.servir{
+    text-align: justify;
+}
+
+.footer{
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: #ddd;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

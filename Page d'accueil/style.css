@@ -1,0 +1,172 @@
+/*-- Le "menu --*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: #ddd;
+    margin-top: auto;
+
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+}
+  
+.topnav a{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.site{
+     background-color: #ddd;
+}
+.flag{
+    width : 75px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+}
+/*-- Le corps de la page --*/
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ddd;
+}
+
+.background{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/*-- Le 1re container (qui contient le carousel et la description de la page) --*/
+.container{
+    border: solid black 1px;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.carousel{
+    margin-top: 40px;
+}
+.soustitre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    color: #ddd;
+    margin-top: 30px;
+}
+
+/*-- Le 2nd container est rattaché au 1re (avec les différents guides) --*/
+p{
+    color: #ddd;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.mer{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+
+}
+.stleu{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.volcan{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.carte{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.faune{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.flore{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.photos{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.meteo{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+.recettes{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.ravine{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.endormi2{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.temple{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.musique{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bertel{
+    width : 150px;
+    display: flex;
+    justify-content: center;
+}
+
